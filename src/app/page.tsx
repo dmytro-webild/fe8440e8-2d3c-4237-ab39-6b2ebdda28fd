@@ -66,7 +66,7 @@ export default function LandingPage() {
           handle: "@sarahj",
           testimonial: "The perfect accessory for my gala. Absolutely stunning.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-transgender-person-looking-into-mirror-front-view_23-2148827032.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-transgender-person-looking-into-mirror-front-view_23-2148827032.jpg?_wi=1",
           imageAlt: "elegant lady holding clutch",
         },
         {
@@ -82,7 +82,7 @@ export default function LandingPage() {
           handle: "@chloeb",
           testimonial: "Velzix clutches always turn heads at social events.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/back-view-artisan-holding-tools_23-2150104789.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/back-view-artisan-holding-tools_23-2150104789.jpg?_wi=1",
           imageAlt: "elegant lady holding clutch",
         },
         {
@@ -90,7 +90,7 @@ export default function LandingPage() {
           handle: "@mayak",
           testimonial: "Sophisticated, durable, and truly elegant.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-stylish-beautiful-woman-sea-cafe-eating-pancakes-cocktail-smoothie-sunglasses-flirty-resort-style-fashionable-outfit-smiling-marine-colors-dress_285396-4237.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-stylish-beautiful-woman-sea-cafe-eating-pancakes-cocktail-smoothie-sunglasses-flirty-resort-style-fashionable-outfit-smiling-marine-colors-dress_285396-4237.jpg?_wi=1",
           imageAlt: "elegant lady holding clutch",
         },
         {
@@ -98,7 +98,7 @@ export default function LandingPage() {
           handle: "@sophiar",
           testimonial: "Unmatched craftsmanship. Love my clutch!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/leather-red-texture_1388-745.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/leather-red-texture_1388-745.jpg?_wi=1",
           imageAlt: "elegant lady holding clutch",
         },
       ]}
@@ -108,7 +108,7 @@ export default function LandingPage() {
           href: "#products",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/young-transgender-person-looking-into-mirror-front-view_23-2148827032.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/young-transgender-person-looking-into-mirror-front-view_23-2148827032.jpg?_wi=2"
       mediaAnimation="slide-up"
       avatars={[
         {
@@ -195,7 +195,7 @@ export default function LandingPage() {
             "Leather",
             "Craftsmanship",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/back-view-artisan-holding-tools_23-2150104789.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/back-view-artisan-holding-tools_23-2150104789.jpg?_wi=2",
         },
         {
           id: "f2",
@@ -204,7 +204,7 @@ export default function LandingPage() {
             "Modern",
             "Style",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/young-stylish-beautiful-woman-sea-cafe-eating-pancakes-cocktail-smoothie-sunglasses-flirty-resort-style-fashionable-outfit-smiling-marine-colors-dress_285396-4237.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-stylish-beautiful-woman-sea-cafe-eating-pancakes-cocktail-smoothie-sunglasses-flirty-resort-style-fashionable-outfit-smiling-marine-colors-dress_285396-4237.jpg?_wi=2",
         },
         {
           id: "f3",
@@ -213,7 +213,7 @@ export default function LandingPage() {
             "Classic",
             "Durable",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/leather-red-texture_1388-745.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/leather-red-texture_1388-745.jpg?_wi=2",
         },
       ]}
       title="Why Choose Velzix?"
